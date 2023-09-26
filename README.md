@@ -5,9 +5,9 @@ Author: Kennet Rueda Espinosa (kruedae@udel.edu), University of Delaware
 ## Software:
 You will need NWChem and Python to run this code.
 
-## Step 1: Bash Execution
+## Step 1: Program Execution
 
-Execute the PSO program with:
+Execute the program with:
 python main.py input.json
 
 ## Step 2: Choosing Initial Basis
